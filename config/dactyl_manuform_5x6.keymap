@@ -21,7 +21,7 @@
 &kp LSHFT  &kp A   &kp S            &kp D       &kp F            &kp G        &kp H      &kp J      &kp K      &kp L     &kp SEMI  &kp ENTER
 &kp LCTRL  &kp Z   &kp X            &kp C       &kp V            &kp B        &kp N      &kp M      &kp COMMA  &kp DOT   &kp FSLH  &kp RSHIFT
                    &kp LGUI         &kp LALT    &bl BL_TOG       &kp SPACE    &kp EQUAL  &kp SPACE  &mo RSE    &kp LEFT
-                   &rgb_ug RGB_EFF  &bl BL_TOG  &rgb_ug RGB_EFR  &kp SPACE    &kp EQUAL  &kp SPACE  &mo RSE    &kp LEFT
+                   &rgb_ug RGB_TOG  &bl BL_TOG  &rgb_ug RGB_EFR  &kp SPACE    &kp EQUAL  &kp SPACE  &mo RSE    &kp LEFT
             >;
 
             sensor-bindings = < &inc_dec_kp PG_UP PG_DN &inc_dec_kp C_VOL_UP C_VOL_DN>;
